@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d65eddd1-446c-449d-9f69-b2f7db450e1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bots/autoreply.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bots/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/bots/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bots/favretweet.py" beforeDir="false" afterPath="$PROJECT_DIR$/bots/favretweet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="ba22d10e-324c-44ac-956d-4e3d7215dc59" />
   <component name="ProjectId" id="1WQxgGRDOECjo4xEM4bOSlB1nS3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -70,7 +67,7 @@
       <updated>1579095728197</updated>
       <workItem from="1579095734262" duration="9870000" />
       <workItem from="1579111898590" duration="2861000" />
-      <workItem from="1579196026462" duration="3642000" />
+      <workItem from="1579196026462" duration="4236000" />
     </task>
     <servers />
   </component>
